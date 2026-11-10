@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SeriesManagement.BAL/SeriesManagement.BAL.csproj" Id="4e3a6e53-98ee-4f77-9fc9-f73793969067" />
+  <Project Path="SeriesManagement.DAL/SeriesManagement.DAL.csproj" Id="a3a66ef0-f86d-462a-a0c5-87e33ab74a5b" />
+  <Project Path="SeriesManagement.UI/SeriesManagement.UI.csproj" Id="781e4eac-0442-491b-aa0f-bf6cb82ca646" />
+</Solution>
